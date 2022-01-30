@@ -1,0 +1,58 @@
+/* Colours:
+#DEFCF9
+#CADEFC
+#C3BEF0
+#CCA8E9
+ */
+
+body {
+  background-color: #DEFCF9;
+  text-align: center;
+}
+
+h1{
+  color: #CCA8E9;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #CCA8E9;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5em;
+}
+
+.titles {
+  margin-top: 5em;
+}
+
+.answers {
+  margin: 3em;
+  display: inline-block;
+
+}
+
+a {
+  font-family: 'Yellowtail', cursive;
+  border-radius: 20px;
+  margin: 1.5em;
+  font-size: 2em;
+  background-color: #CADEFC;
+  color: #CCA8E9;
+  border: none;
+  text-decoration: none;
+  padding: 0.5em 5em;
+}
+
+a:hover {
+  border: 2px solid #CCA8E9;
+  background-color: #DEFCF9;
+}
+
+.home-image {
+  width: 12.5em;
+  height: 14em;
+  border-radius: 50%;
+}

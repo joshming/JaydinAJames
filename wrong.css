@@ -1,0 +1,35 @@
+/* Colours:
+#DEFCF9
+
+#C3BEF0
+#CCA8E9
+ */
+
+body {
+  background-color: #CADEFC;
+  text-align: center;
+}
+
+h1{
+  color: #CCA8E9;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #CCA8E9;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5em;
+}
+
+.titles {
+  margin-top: 5em;
+}
+
+.answers {
+  margin: 3em;
+  display: inline-block;
+
+}

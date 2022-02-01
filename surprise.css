@@ -1,0 +1,14 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  background: #C3BEF0;
+  font-size: 24px;
+  padding: 1em;
+}
+
+.parallax {
+  background: url("images/cherryblossomforest.jpg") no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+}
